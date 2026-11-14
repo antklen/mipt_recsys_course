@@ -24,7 +24,6 @@
 - Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity
 - Calibrated Recommendations
 - On Sampled Metrics for Item Recommendation
-- Scalable Approximate NonSymmetric Autoencoder for Collaborative Filtering
 - DropoutNet: Addressing Cold Start in Recommender Systems
 - DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems
 - gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling

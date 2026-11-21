@@ -19,5 +19,5 @@
 
 ### Contributors
 
-- [Антон Кленикий](https://github.com/antklen)
+- [Антон Кленицкий](https://github.com/antklen)
 - [Алексей Васильев](https://github.com/AleXXL1986)
